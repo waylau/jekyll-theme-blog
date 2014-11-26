@@ -9,7 +9,7 @@ tags: [Blog,Jekyll,jekyll-theme-blog]
 ---
 
 
-A theme for Jekyll to build a personal blog
+A theme for Jekyll to build a personal blog. See[https://github.com/waylau/jekyll-theme-blog](https://github.com/waylau/jekyll-theme-blog)
 
 ##Screenshots
 
@@ -76,7 +76,3 @@ Feel free to fork and contribute to the project, just create a pull request.
 
 Open sourced under [MIT License](LICENSE.md) 
 
-##Reference
-
-* [http://jekyllrb.com/](http://jekyllrb.com/)
-* [https://github.com/pexcn/Jekyll-Light](https://github.com/pexcn/Jekyll-Light)
