@@ -1,0 +1,23 @@
+- href: /timing/
+  icon: fa fa-clock-o
+  title: 时光机
+
+- href: /categories/
+  icon: fa fa-tag
+  title: 分类
+
+- href: /tags/
+  icon: fa fa-tags
+  title: 标签
+
+- href: http://labs.waylau.com/
+  icon: fa fa-paper-plane-o
+  title: 示例
+
+- href: /books.html
+  icon: fa fa-paper-plane-o
+  title: 书籍
+
+- href: /about.html
+  icon: fa fa-paper-plane-o
+  title: 关于

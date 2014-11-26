@@ -1,5 +1,13 @@
-jekyll-theme-blog
-=================
+---
+layout: post
+title: 关于 本 jekyll 主题 jekyll-theme-blog
+date: 2014-11-26 02:41
+author: admin
+comments: true
+categories: [Blog,Jekyll]
+tags: [Blog,Jekyll,jekyll-theme-blog]
+---
+
 
 A theme for Jekyll to build a personal blog
 
@@ -12,6 +20,8 @@ A theme for Jekyll to build a personal blog
 ##Demo
 
 You can see the theme running on [my blog](http://www.waylau.com/).
+
+<!-- more -->
 
 ##Usage
 

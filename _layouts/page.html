@@ -1,0 +1,11 @@
+---
+layout: blog
+---
+
+<section class="post">
+{{ content }}
+</section>
+{% if page.comments %}
+{% if page.duoshuo != false %}{% include duoshuo.html %}{% endif %}
+{% endif %}
+

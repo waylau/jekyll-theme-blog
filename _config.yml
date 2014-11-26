@@ -1,0 +1,20 @@
+markdown: rdiscount #kramdown
+highlighter: pygments
+permalink: /:title/
+paginate: 6
+paginate_path: page/:num
+
+blog:
+    name:  Way Lau's Blog                                 # 博客名称
+    description: 技术改变世界！                           # 博客描述
+    title: Way Lau's Personal Site | www.waylau.com       # 网页标题
+    url: http://www.waylau.com                            # 博客地址
+    duoshuo:  waylau                                      # 多说ID
+    tongji: 28cf5fa48a599e39c5cc760931de942f              # 百度统计ID
+author:
+    name: Way Lau                                         # 作者名称
+    email: waylau521@gmail.com                            # 邮箱地址
+    weibo: http://weibo.com/waylau521                     # 微博地址
+    github: https://github.com/waylau                     # GitHub地址
+    twitter: https://twitter.com/waylau521                #twitter 地址
+    logo:  /res/img/icon.png                              # logo地址
