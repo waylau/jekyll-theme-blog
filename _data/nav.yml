@@ -3,19 +3,19 @@
   title: 时光机
 
 - href: /categories/
-  icon: fa fa-tag
+  icon: fa fa-tags
   title: 分类
 
 - href: /tags/
-  icon: fa fa-tags
+  icon: fa fa-bookmark
   title: 标签
 
 - href: http://labs.waylau.com/
-  icon: fa fa-paper-plane-o
+  icon: fa fa-building
   title: 示例
 
 - href: /books/
-  icon: fa fa-paper-plane-o
+  icon: fa fa-book
   title: 书籍
 
 - href: /about/
