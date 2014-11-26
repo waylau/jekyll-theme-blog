@@ -14,10 +14,10 @@
   icon: fa fa-paper-plane-o
   title: 示例
 
-- href: /books.html
+- href: /books/
   icon: fa fa-paper-plane-o
   title: 书籍
 
-- href: /about.html
+- href: /about/
   icon: fa fa-paper-plane-o
   title: 关于
