@@ -4,13 +4,15 @@ post: true
 ---
 
 <header class="post-header">
-  <h1 class="post-title"><a href="{{ page.url }}">{{ page.title }}</a></h2>
+  <h1 class="post-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
   <p class="post-meta">
     <i class="fa fa-calendar"></i>
     {{ page.date | date: "%Y" }}年{{ page.date | date: "%m" }}月{{ page.date | date: "%d" }}日
     <i class="space"></i>
     <i class="fa fa-tags"></i>
-    <a class="post-category" href="/categories/#{{ page.categories }}">{{ page.categories }}</a>	
+    {% for cat in page.categories %}
+    <a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>
+    {% endfor %}
   </p>
 </header>
 <div class="post-main">

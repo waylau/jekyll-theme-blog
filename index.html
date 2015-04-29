@@ -13,7 +13,9 @@ index: true
         {{ post.date | date: "%Y" }}年{{ post.date | date: "%m" }}月{{ post.date | date: "%d" }}日
         <i class="space"></i>
         <i class="fa fa-tags"></i>
-        <a class="post-category" href="/page/category.html#{{ post.categories }}">{{ post.categories }}</a>
+        {% for cat in post.categories %}
+        <a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>
+        {% endfor %}
       </p>
     </header>
     <div class="post-main">
